@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="LogCertificates.com.am.bp.innovations.AppTest" time="0.198" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="17"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="E:\GIT_CLONE\LogCertificates\target\test-classes;E:\GIT_CLONE\LogCertificates\target\classes;E:\MVN\.m2\junit\junit\3.8.1\junit-3.8.1.jar;E:\MVN\.m2\org\cryptacular\cryptacular\1.2.5\cryptacular-1.2.5.jar;E:\MVN\.m2\org\bouncycastle\bcprov-jdk18on\1.71\bcprov-jdk18on-1.71.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Berlin"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="17"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
+    <property name="sun.java.command" value="C:\Users\sam\AppData\Local\Temp\surefire3040008068688241566\surefirebooter-20230807091540180_3.jar C:\Users\sam\AppData\Local\Temp\surefire3040008068688241566 2023-08-07T09-15-39_162-jvmRun1 surefire-20230807091540180_1tmp surefire_0-20230807091540180_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="E:\GIT_CLONE\LogCertificates\target\test-classes;E:\GIT_CLONE\LogCertificates\target\classes;E:\MVN\.m2\junit\junit\3.8.1\junit-3.8.1.jar;E:\MVN\.m2\org\cryptacular\cryptacular\1.2.5\cryptacular-1.2.5.jar;E:\MVN\.m2\org\bouncycastle\bcprov-jdk18on\1.71\bcprov-jdk18on-1.71.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\sam"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2023-01-17"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="E:\GIT_CLONE\LogCertificates"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\sam\AppData\Local\Temp\surefire3040008068688241566\surefirebooter-20230807091540180_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
+    <property name="user.name" value="sam"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="E:\MVN\.m2"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\sam\AppData\Local\Temp\"/>
+    <property name="java.version" value="17.0.6"/>
+    <property name="user.dir" value="E:\GIT_CLONE\LogCertificates"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-17\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\Java\jdk-17\bin;E:\MVN\apache-maven-3.9.0\bin;E:\FFMPEG\ffmpeg-2023-03-02-git-814178f926-full_build\bin;C:\Program Files\TortoiseGit\bin;E:\BALABOLKA;E:\PYTHON;E:\PYTHON\Scripts;E:\CYGWIN\\bin;E:\PUTTY\;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;C:\Program Files\dotnet\;E:\NODE\;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\sam\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Blender Foundation\Blender 3.5;E:\VSCODE\bin;C:\Users\sam\AppData\Roaming\npm;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="17.0.6+9-LTS-190"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="61.0"/>
+  </properties>
+  <testcase name="testApp" classname="LogCertificates.com.am.bp.innovations.AppTest" time="0.001"/>
+</testsuite>
