@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="LogCertificates.com.am.bp.innovations.AppTest" time="0.198" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.am.bp.innovations.AppTest" time="0.157" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="E:\GIT_CLONE\LogCertificates\target\test-classes;E:\GIT_CLONE\LogCertificates\target\classes;E:\MVN\.m2\junit\junit\3.8.1\junit-3.8.1.jar;E:\MVN\.m2\org\cryptacular\cryptacular\1.2.5\cryptacular-1.2.5.jar;E:\MVN\.m2\org\bouncycastle\bcprov-jdk18on\1.71\bcprov-jdk18on-1.71.jar;"/>
+    <property name="java.class.path" value="E:\GIT_CLONE\LogCertificates\target\test-classes;E:\GIT_CLONE\LogCertificates\target\classes;E:\MVN\.m2\junit\junit\3.8.1\junit-3.8.1.jar;E:\MVN\.m2\org\cryptacular\cryptacular\1.2.5\cryptacular-1.2.5.jar;E:\MVN\.m2\org\bouncycastle\bcprov-jdk18on\1.71\bcprov-jdk18on-1.71.jar;E:\MVN\.m2\org\junit\junit5-engine\5.0.0-ALPHA\junit5-engine-5.0.0-ALPHA.jar;E:\MVN\.m2\org\junit\junit5-api\5.0.0-ALPHA\junit5-api-5.0.0-ALPHA.jar;E:\MVN\.m2\org\opentest4j\opentest4j\1.0.0-ALPHA\opentest4j-1.0.0-ALPHA.jar;E:\MVN\.m2\org\junit\junit-commons\5.0.0-ALPHA\junit-commons-5.0.0-ALPHA.jar;E:\MVN\.m2\org\junit\junit-engine-api\5.0.0-ALPHA\junit-engine-api-5.0.0-ALPHA.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\sam\AppData\Local\Temp\surefire3040008068688241566\surefirebooter-20230807091540180_3.jar C:\Users\sam\AppData\Local\Temp\surefire3040008068688241566 2023-08-07T09-15-39_162-jvmRun1 surefire-20230807091540180_1tmp surefire_0-20230807091540180_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\sam\AppData\Local\Temp\surefire8041471748479129819\surefirebooter-20230807093410290_3.jar C:\Users\sam\AppData\Local\Temp\surefire8041471748479129819 2023-08-07T09-34-07_240-jvmRun1 surefire-20230807093410290_1tmp surefire_0-20230807093410290_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="E:\GIT_CLONE\LogCertificates\target\test-classes;E:\GIT_CLONE\LogCertificates\target\classes;E:\MVN\.m2\junit\junit\3.8.1\junit-3.8.1.jar;E:\MVN\.m2\org\cryptacular\cryptacular\1.2.5\cryptacular-1.2.5.jar;E:\MVN\.m2\org\bouncycastle\bcprov-jdk18on\1.71\bcprov-jdk18on-1.71.jar;"/>
+    <property name="surefire.test.class.path" value="E:\GIT_CLONE\LogCertificates\target\test-classes;E:\GIT_CLONE\LogCertificates\target\classes;E:\MVN\.m2\junit\junit\3.8.1\junit-3.8.1.jar;E:\MVN\.m2\org\cryptacular\cryptacular\1.2.5\cryptacular-1.2.5.jar;E:\MVN\.m2\org\bouncycastle\bcprov-jdk18on\1.71\bcprov-jdk18on-1.71.jar;E:\MVN\.m2\org\junit\junit5-engine\5.0.0-ALPHA\junit5-engine-5.0.0-ALPHA.jar;E:\MVN\.m2\org\junit\junit5-api\5.0.0-ALPHA\junit5-api-5.0.0-ALPHA.jar;E:\MVN\.m2\org\opentest4j\opentest4j\1.0.0-ALPHA\opentest4j-1.0.0-ALPHA.jar;E:\MVN\.m2\org\junit\junit-commons\5.0.0-ALPHA\junit-commons-5.0.0-ALPHA.jar;E:\MVN\.m2\org\junit\junit-engine-api\5.0.0-ALPHA\junit-engine-api-5.0.0-ALPHA.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\sam"/>
     <property name="user.language" value="en"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\sam\AppData\Local\Temp\surefire3040008068688241566\surefirebooter-20230807091540180_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\sam\AppData\Local\Temp\surefire8041471748479129819\surefirebooter-20230807093410290_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.6+9-LTS-190"/>
@@ -56,5 +56,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testApp" classname="LogCertificates.com.am.bp.innovations.AppTest" time="0.001"/>
+  <testcase name="testApp" classname="com.am.bp.innovations.AppTest" time="0.008"/>
 </testsuite>
